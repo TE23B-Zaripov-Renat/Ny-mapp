@@ -1,0 +1,15 @@
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\bin\Debug\net9.0\Pokemon.exe
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\bin\Debug\net9.0\Pokemon.deps.json
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\bin\Debug\net9.0\Pokemon.runtimeconfig.json
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\bin\Debug\net9.0\Pokemon.dll
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\bin\Debug\net9.0\Pokemon.pdb
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.AssemblyInfo.cs
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.sourcelink.json
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.dll
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\refint\Pokemon.dll
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.pdb
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\Pokemon.genruntimeconfig.cache
+C:\Users\renat.zaripov\Documents\Programmering 2\LabbAPL\Pokemon\obj\Debug\net9.0\ref\Pokemon.dll

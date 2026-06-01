@@ -1,7 +1,7 @@
 public class Tamagotchi
 {
-    private int hunger = 10;
-    private int boredom = 10;
+    private int hunger = 0;
+    private int boredom = 0;
     public string name= "";
     private List<string> words = [];
     
@@ -17,12 +17,20 @@ public class Tamagotchi
 
     public void Feed()
     {
-        hunger++;
+        hunger -= 2;
+        if (hunger < 0)
+        {
+            hunger = 0;
+        }
     }
 
     public void Play()
     {
-        boredom--;
+        boredom -= 2;
+        if (hunger < 0)
+        {
+            hunger = 0;
+        }
     }
 
     public void Teach()
@@ -47,8 +55,9 @@ public class Tamagotchi
     }
     public bool IsAlive()
     {
-        if (hunger < 0 || boredom < 0)
+        if (hunger > 10 || boredom > 10)
         {
+            Console.WriteLine("Your tamagotchi have died!");
             return false;
         }
         else

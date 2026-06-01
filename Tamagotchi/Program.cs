@@ -15,6 +15,7 @@ while (tama.IsAlive() == true)
     }
     else if (answer == "2")
     {
+        // Console.WriteLine("How would you like to play?\n 1.Football 2.Basketball 3.Frisbee");
         tama.Play();
     }
     else if (answer == "3")
@@ -29,7 +30,7 @@ while (tama.IsAlive() == true)
     {
 
     }
-
+    tama.tick();
 }
 
 Console.ReadLine();

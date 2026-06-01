@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat.zaripov\\Ny mapp\\Tamagotchi\\Tamagotchi.csproj",
+      "projectUniqueName": "C:\\Users\\renat.zaripov\\Documents\\Programmering 2\\Tamagotchi\\Tamagotchi.csproj",
       "projectName": "Tamagotchi",
-      "projectPath": "C:\\Users\\renat.zaripov\\Ny mapp\\Tamagotchi\\Tamagotchi.csproj",
+      "projectPath": "C:\\Users\\renat.zaripov\\Documents\\Programmering 2\\Tamagotchi\\Tamagotchi.csproj",
       "packagesPath": "C:\\Users\\renat.zaripov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat.zaripov\\Ny mapp\\Tamagotchi\\obj\\",
+      "outputPath": "C:\\Users\\renat.zaripov\\Documents\\Programmering 2\\Tamagotchi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
